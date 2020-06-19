@@ -16,4 +16,4 @@ image formats, including:
 References:
 * <http://hackage.haskell.org/package/repa>
 * <http://openil.sourceforge.net/>
-* <http://www.haskell.org/haskellwiki/Numeric_Haskell:_A_Repa_Tutorial>
+* <http://www.haskell.org/haskellwiki/Numeric_Haskell:_A_Repa_Tutorial
