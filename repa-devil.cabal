@@ -1,0 +1,24 @@
+Library
+  Exposed-modules:
+    Data.Array.Repa.IO.DevIL
+
+  Build-depends:
+    base              == 4.*,
+    repa              >= 3.2.0.0        && < 4.0,
+    transformers      >= 0.2            && < 0.5
+
+  Build-tools:
+    hsc2hs
+
+  GHC-Options: -O2 -Wall
+
+  Extensions:
+    CPP,
+    ForeignFunctionInterface
+
+  Extra-Libraries:
+    IL
+
+source-repository head
+  type:     git
+  location: https://github.com/alvinshaita/repa
