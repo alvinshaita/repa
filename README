@@ -1,3 +1,4 @@
+## Repa
 Support for image reading and writing of Repa arrays using in-place FFI calls
 
 The repa-image library adds support for reading and
