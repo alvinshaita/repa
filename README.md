@@ -1,6 +1,5 @@
 ## Repa
-
-It offers support for image reading and writing of Repa arrays using in-place FFI calls
+An image library that offers support for image reading and writing of Repa arrays using in-place FFI calls.
 
 The repa-image library adds support for reading and
 writing images in many formats. Image data is represented in Haskell
